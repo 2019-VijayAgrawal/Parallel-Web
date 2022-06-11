@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 200px;
+    position: relative;
+    top: 50px;
+    align-items: center;
+    
+    height: 150px;
+    margin-top: 50px;
+    word-spacing: .02;
+}
+header h2{
+
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blue;
+    color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.parallel-one{
+    background-image: url('image1.jpg');
+    min-height: 600px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.parallel-one h2{
+    width: 200px;
+    height: 35px;
+    position: relative;
+    left: 43%;
+    text-align: center;
+    top: 300px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.parallel-two{
+    background-image: url('image2.jpg');
+    min-height: 600px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.parallel-two h2{
+    width: 200px;
+    height: 35px;
+    position: relative;
+    left: 43%;
+    text-align: center;
+    top: 300px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.parallel-three{
+    background-image: url('image3.jpg');
+    min-height: 600px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.parallel-three h2{
+    width: 200px;
+    height: 35px;
+    position: relative;
+    left: 43%;
+    text-align: center;
+    top: 300px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.para{
+    height: 130px;
+    padding: 20px;
+    margin: 0;
+    font-size: 20px;
+   text-align: center;
+   background-color: black;
+    color: white;
+}
+footer{
+    text-align: center;
+  padding: 3px;
+  background-color:turquoise;
+  color: white;
+  font-size: 40px;
+}
